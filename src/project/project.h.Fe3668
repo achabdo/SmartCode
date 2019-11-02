@@ -1,0 +1,76 @@
+#ifndef PROJECT_H
+#define PROJECT_H
+#include "project_global.h"
+#include <QObject>
+#include <QtXml>
+#include "core.h"
+
+
+class PROJECTSHARED_EXPORT Project : public QObject
+{
+    Q_OBJECT
+public:
+    explicit Project(const QString &projectName, QObject *parent=0);
+    bool readProject();
+    QString toPath() const;
+    QStringList toSourceFiles() const;
+    QStringList toHeaderFiles()  const;
+    QStringList toResFiles()  const;
+    QStringList toLibs()  const;
+    QStringList toIncludes()  const;
+    QStringList toIncludeLibs()  const;
+    QStringList toSubProjects()  const;
+    QStringList toFlags()const;
+    QString toProjectType()  const;
+    QString toProjetLang()  const;
+    QString dest() const ;
+    QString projectPath();
+    QString baseName() const;
+    QString toConfig()  const;
+    void setConfig(const QString &conf);
+    QRegExp SourceFiles()  const;
+    QRegExp HeaderFiles() const;
+    QString toCompiler()  const;
+    bool addSubProject(const QString &project);
+    void clear(const QString &element);
+    bool isValid();
+    QString toTarget()  const;
+    QString toMakeFile()  const;
+    QStringList projectFiles(const QString &filter)const;
+    void addFiles(const QString &path, const QString &element);
+    void deleteFile(const QString &fileName, const QString &element);
+    QString toDestDir() const;
+    QString name() const;
+    void renameFile(const QString &fileName,const QString &renamedFile);
+
+signals:
+public slots:
+void writeProject(const QString &tpl,const QString &target,const QStringList &src,const
+                  QStringList &headers=QStringList(), const QStringList &incs=QStringList(),const QStringList &incLibs=QStringList(),const QStringList
+                  &libs=QStringList(),const QStringList &incres=QStringList(),const QString &destDir=
+                  QString(),const QString &makefile=QString());
+private:
+QString project;
+QFile file;
+QString projectType;
+QString projectLang;
+QString config;
+QStringList subPros;
+QStringList readList(QDomElement parent);
+QDomElement add(const QString &option,QDomElement parent,const QString &setting=QString(),bool createTextNode=false);
+void addList(QStringList list,QDomElement parent);
+void removePath(QDomElement item,const QString &tagName,const QString &fileName=QString());
+void renameItem(QDomElement item,const QString &tagName,const QString &fileName,const QString &renamedFile);
+void addFile(QDomElement item,const QString &tagName,const QString &pathName);
+QStringList src,h,res,cFlags,cxxFlags,libs,incs,incLibs,flags;
+QString compiler,target,makefile,destDir;
+//xml declarations
+QDomDocument doc;
+QDomElement root;
+QDomElement item;
+QDomElement path;
+
+bool openFile();
+};
+
+#endif // PROJECT_H

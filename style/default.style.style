@@ -1,0 +1,102 @@
+<Lexer size="10" font="Courier New">
+ <Default>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Default>
+ <Ccomment>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Ccomment>
+ <CPPcomment>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </CPPcomment>
+ <JavaDocstyleCcomment>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </JavaDocstyleCcomment>
+ <Number>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Number>
+ <Keyword>
+  <Foreground_color red="255" blue="255" green="170"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Keyword>
+ <Double-quotedstring>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Double-quotedstring>
+ <Single-quotedstring>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Single-quotedstring>
+ <IDLUUID>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </IDLUUID>
+ <Pre-processorblock>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Pre-processorblock>
+ <Operator>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Operator>
+ <Identifier>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Identifier>
+ <Unclosedstring>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="true" underline="false" italic="false"/>
+ </Unclosedstring>
+ <C#verbatimstring>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="false" underline="false" italic="false"/>
+ </C#verbatimstring>
+ <JavaScriptregularexpression>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="false" underline="false" italic="false"/>
+ </JavaScriptregularexpression>
+ <JavaDocstyleC++comment>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="false" underline="false" italic="false"/>
+ </JavaDocstyleC++comment>
+ <GlobalVariables>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="false" underline="false" italic="false"/>
+ </GlobalVariables>
+ <JavaDockeyword>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="false" underline="false" italic="false"/>
+ </JavaDockeyword>
+ <JavaDockeyworderror>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="false" underline="false" italic="false"/>
+ </JavaDockeyworderror>
+ <Globalclassesandtypedefs>
+  <Foreground_color red="0" blue="0" green="0"/>
+  <Background_color red="0" blue="0" green="0"/>
+  <Font bold="false" underline="false" italic="false"/>
+ </Globalclassesandtypedefs>
+</Lexer>

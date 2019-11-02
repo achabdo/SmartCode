@@ -1,0 +1,1052 @@
+<!DOCTYPE QPH>
+<QPH language="af" sourcelanguage="en">
+<phrase>
+    <source>File</source>
+    <target>bb</target>
+</phrase>
+<phrase>
+    <source>AdvancedSearch</source>
+    <target>Recherche abancée</target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target> a propos</target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Filter methods</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Public</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Private</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Protected</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Classes :</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Class methods:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Others</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Insert documentation above method</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Line seperation</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Couleurs</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Background color</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Forground color</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Style</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bold</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Italic</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Underline</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>8</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>9</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>10</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>11</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>12</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>14</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>16</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>18</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>20</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>22</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>24</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>26</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>28</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Familly</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Zoom</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Default</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>C comment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>CPP comment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>JavaDoc style C comment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Number</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Keyword</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Double-quoted string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Single-quoted string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>IDL UUID</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Pre-processor block</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Operator</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Identifier</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unclosed string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>C-SHARP verbatim string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>JavaScript regular expression</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>JavaDoc style CPP comment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Global Variables</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>JavaDoc keyword</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>JavaDoc keyword error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Global classes and typedefs</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>CPP raw string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Vala triple-quoted verbatim string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Pike hash-quoted string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Pre-processor C comment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>JavaDoc style pre-processor comment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>New &amp;Tab</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Clone Tab</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&amp;Close Tab</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Close &amp;Other Tabs</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Application</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The document has been modified.
+Do you want to save your changes?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&amp;Bascule</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Insert</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&amp;Insert a function</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&amp;Insert All function</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&amp;Paste</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cu&amp;t</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&amp;Copy</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Inverse comment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Inverse comment 2</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Idententation</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Language</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Environnement</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Editor</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Build and run</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>New Item</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>en</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>fr</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Enter the name of the session</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>New</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Clone</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Rename</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>ScrollArea</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recent Projects</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Open project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source> New project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recent Sessions</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>WizardPage</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Class Parent</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Class Name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Parcourir ...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Source File</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Header</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Path</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>WizardPage</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Release</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Debug</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>WizardPage</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Project Name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Project Dir</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Parcourir...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dest dir</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Objects output directory</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Flags</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Linker</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Link Libraries</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Search Paths</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Page</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>ProjectName</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>ProjectDir</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Untitled</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File does not exsits</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Directory non valid</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select Directory</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The file does&apos;nt exsits</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The project is already open</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Can&apos;t open the project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Active Project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>build</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>clean</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>open</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>delete</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>rename</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Delelte file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Add Exsiting files</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>all Files (*.*)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File not exsists</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Mingw</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Programes</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>C compiler:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>C++ Compile:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Link for dynamic libs:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Link for static  libs:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Make program:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Resource Compiler:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Debugger:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Linker</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Include Paths</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Flags</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compiler</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compiler Directory</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Auto detecte</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compiler have been found in </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Message</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Line</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>bb</target>
+</phrase>
+<phrase>
+    <source>Advanced Search</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Context</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Rechercher</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Courant file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Courant project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>All Project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>System Files</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Remplacer</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>*.*</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Case Sensitive</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Whole words</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>regular expression</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File pattern</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Search dir</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Find</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Replace</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Replace All</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Lunch Advanced Search</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Advanced...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select a path</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Smart Code </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>2014 © Achrouf corporation.All rights reserved</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Devloped by Achrouf Abdenour</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;This program is free you can redistribute and modify it under the license of the GNU GPL as published by the free software foundation&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>SmartCode</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target>bb</target>
+</phrase>
+<phrase>
+    <source>Recent Projects</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>New</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>import</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recent Files</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>View</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Tools</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Projet</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Build</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Find</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Debug</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Projects</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>toolBar</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>toolBar_2</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Full screen</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save As</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Undo</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Redo</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cut</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Paste</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compile</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Run</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compile and run</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>About ...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Setting</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Project manager</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Toolbar</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Logs</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Open file or project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compiler and Debugger</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Options</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>DevCpp</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>CodeBlocks</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Start Page</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Stop</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>SyntaxHiglighter</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Start</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Next Line</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Next Instruction</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Run to cursor</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Step into</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Step out</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Print...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Close Project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Close All Projects</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Rebuild</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Clean</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Session Manager</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Advanced Search</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Problems</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compile Output</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Application Output</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Open Project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>All files(*.*);;SmartCode Project (*.xml *.smc );;CPP source files(*.cpp *.cxx *.cc );;C source files(*.c);;Header files(*.h)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Import DevCpp Project</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>DevCpp Project (*.dev);;All files(*.*)</source>
+    <target></target>
+</phrase>
+</QPH>

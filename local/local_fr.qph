@@ -1,0 +1,35 @@
+<!DOCTYPE QPH>
+<QPH sourcelanguage="en_US" language="fr_FR">
+<phrase>
+    <source>File</source>
+    <target>Fichier</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>Edition</target>
+</phrase>
+<phrase>
+    <source>Find</source>
+    <target>Rechercher</target>
+</phrase>
+<phrase>
+    <source>file not exsists</source>
+    <target>Le fichier n&apos;exsiste pas</target>
+</phrase>
+<phrase>
+    <source>Advanced Search</source>
+    <target>Recherche avancée</target>
+</phrase>
+<phrase>
+    <source>Dialog</source>
+    <target>Boo</target>
+</phrase>
+<phrase>
+    <source>WizardPage</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>New</source>
+    <target>Nouveau</target>
+</phrase>
+</QPH>

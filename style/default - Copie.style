@@ -1,0 +1,22 @@
+<Lexer>
+ <Default style = "0">
+  <Foreground_color red = "255"  green = "0"  blue="0" />
+  <Background_color red = "255"  green = "255"  blue="255" />
+  <Font name="Courier" size = "10"  bold = "false" italic ="false" underline = "false" />
+ </Default>
+ <Keyword style = "5">
+  <Foreground_color red = "0"  green = "255"  blue="0" />
+  <Background_color red = "255"  green = "255"  blue="255" />
+  <Font name="Courier" size = "10" bold = "false" italic ="true" underline = "false" />
+ </Keyword>
+  <Number style = "4">
+  <Foreground_color red = "0"  green = "0"  blue="255" />
+  <Background_color red = "255"  green = "255"  blue="255" />
+  <Font name="Courier" size = "10" bold = "true" italic ="false" />
+ </Number>
+  <GloablClass style = "19">
+  <Foreground_color red = "255"  green = "0"  blue="133" />
+  <Background_color red = "255"  green = "255"  blue="255" />
+  <Font name="Courier" size = "10" bold = "false" italic ="false" />
+ </GloablClass>
+</Lexer>

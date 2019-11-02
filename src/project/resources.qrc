@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Class.png</file>
+        <file>images/Class-Private.png</file>
+        <file>images/Class-Protected.png</file>
+        <file>images/Enum.png</file>
+        <file>images/Enum-Private.png</file>
+        <file>images/Enum-Protected.png</file>
+        <file>images/folder.png</file>
+        <file>images/Method-Private.png</file>
+        <file>images/Method-Protected.png</file>
+        <file>images/Namespace.png</file>
+        <file>images/project.png</file>
+        <file>images/Structure.png</file>
+        <file>images/Union.png</file>
+        <file>images/Template.png</file>
+        <file>images/Var-Private.png</file>
+        <file>images/Var-Protected.png</file>
+        <file>images/Var-Public.png</file>
+        <file>images/Method-Public.png</file>
+    </qresource>
+</RCC>

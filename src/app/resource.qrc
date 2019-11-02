@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/StepIn.png</file>
+        <file>images/Stepout.png</file>
+        <file>images/stopDebug.png</file>
+        <file>images/startDebug.png</file>
+        <file>images/nextInstruction.png</file>
+        <file>images/nextLine.png</file>
+        <file>images/Continue.png</file>
+        <file>images/FindinFiles.png</file>
+        <file>images/rebuild.png</file>
+        <file>images/Find.png</file>
+        <file>images/Build.png</file>
+        <file>images/Copy.png</file>
+        <file>images/Cut.png</file>
+        <file>images/Open.png</file>
+        <file>images/Paste.png</file>
+        <file>images/Save.png</file>
+        <file>images/Saveall.png</file>
+        <file>images/New_Project.png</file>
+        <file>images/build and run.png</file>
+        <file>images/run.png</file>
+        <file>images/Cancel.png</file>
+    </qresource>
+</RCC>
